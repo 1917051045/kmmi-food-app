@@ -4,6 +4,6 @@ Sebuah project dengan misi membawa ilmu pengembangan aplikasi mobile dengan fram
 
 # Author
 
-Muhammad Bintang Firdaus\n
-Universitas Lampung\n
+Muhammad Bintang Firdaus<br> 
+Universitas Lampung<br>
 1917051045
